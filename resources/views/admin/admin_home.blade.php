@@ -1,0 +1,1 @@
+@extends('layouts.admin_lay')
